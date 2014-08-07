@@ -1,0 +1,16 @@
+<snippet>
+	<content>
+	<![CDATA[
+<macrosgroup name="${1:name}" desc="${2:desc}">
+	
+</macrosgroup>
+	]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>mg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<scope>text.xml</scope>
+	<description>TDR macrosgroup snippet</description>
+</snippet>

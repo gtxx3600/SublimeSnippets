@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+	<![CDATA[<macro name="${1:name}" value="${2:0}" desc="${3:desc}" />]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>ma</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<scope>text.xml</scope>
+	<description>TDR macro snippet</description>
+</snippet>
